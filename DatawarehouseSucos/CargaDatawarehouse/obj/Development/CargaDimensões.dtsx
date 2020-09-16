@@ -11,8 +11,8 @@
   DTS:LocaleID="1046"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="28"
-  DTS:VersionGUID="{CA941AB4-3D1F-4BD2-B437-A7D141914538}">
+  DTS:VersionBuild="32"
+  DTS:VersionGUID="{21E75D67-4C07-4BBE-8F93-CADB92A8FF65}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -124,7 +124,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAABh70ebJ5Go31wNFpDa2J1IJqwLCrwxMlAn6LD6SyXYAAAAAAOgAAAAAIAACAAAACFkNRF4dhorvjCqbKGLicC9rd4Shp6VH2RdhlsABz99RAAAAAn3RHCUDK+Eqsid+x3jCF1QAAAAHuaxpgy8mdX0NiVgqUIhGz4uaQy4CZQuGf4IRO6XULaoIgVr91v11NiJDKROcgrJl96GnIfvg5/GcZJKBuKL9Y</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA5BzW5RIW6stly7kebZmXGvQccXFXjVzmxAeTzIaV5QwAAAAAOgAAAAAIAACAAAACuH2MbV+T1qAd+A1LfBid2z/TbUH1/oaODp4pQ62EhTxAAAABqcMnoQumeZKjZ/8S9bfvFQAAAAPCCBrKgGPjZgJSY30xzJYLCiToIO62L/AwNN/j03eDAP4spo+NgD0dlfvkSTfXKvDIRxlXMN8cUwVAa5EsZIbY</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -139,7 +139,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADfxOemwzvCW+Q5cwyCFDuzoJ3sxcu5OItLZZhrUe6NEQAAAAAOgAAAAAIAACAAAAAhdv92n8Q4p3tXHv0cCCCTko1KE6Y+31tmSSdTUPQL1BAAAAB5ESEiLI+WFtK2FZhLfrP7QAAAAGzdUiwNGDcOQ/j7AuVwQ28Ru0MHew0vtlY03klsxs4Qyhj5MwJwC/kOkmEpTjfihf42EaHNx27TRqA7xJg5QFU</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA3a0TlgBSo85+8xebajZiTVzSFwHT0GrsJ6KURXQSBYwAAAAAOgAAAAAIAACAAAAD1mtD2AEyj4MtxeWDZlIBL8r7RsgKulhmBc/mYKYkn/RAAAAAnw3E049Af9YUvDWfotCn3QAAAAGaPtQQgWTkaMEvHLUvMqftKFz50cm/R6XCFN0ZUuHK75iohQYIvOJmigJSteUoNCzuoIRw+mBT0wXOdffW9nm4</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -154,7 +154,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADn72NeG+vDjC0rRmLvCIgzbfmpfvIbPMrqsBAJA65neQAAAAAOgAAAAAIAACAAAADitbj1gbzhzHel6WmlNHZCQsMrpA0Z+nACM9Q0bcZOCxAAAAAs3kb0oxmba5BRey9FKPW3QAAAADnrClQ+icj8lDLGcAtlcHC6ayHjCGuZdAoVSKucwm6pfUx47CkpR7NULbmES00m0EDQF6x4BzIM67ilxfcsk1I</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAoWfl+bDskTbFX4uzFocXOsu5awhbBzJx9eIdIA9MdhQAAAAAOgAAAAAIAACAAAACNV9HF8Ti6COEQBfEcT1wAPC0OOgLQc763/KMGpd4rWBAAAAA/Q+2HWYgXLL05LFVJQcWmQAAAAD7qziCGkNfaRqjICadLPTzZXhvPXTEvU3tBaHDuNTBoC6XttVJZo3PA1GcjzM3bKHuPV4hMPE2KH2oCX5UfnaY</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -169,7 +169,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACszgcd+ya8Y9zTBJ9oEsIPuCOVSOIRCuBiZWp44PNfkwAAAAAOgAAAAAIAACAAAAAARTJHWYjVaQuvVeSTyUlgCKgKchsYSA/8lRsIvd/rYRAAAABiW6C8m/0+7ZXc8KqFl/vQQAAAAGw55qreRlcRa9N3XTAjHoYjLbI45jijP3rTstfoei5XBWt10lq2Rjv734XQ7rs5btC7CqAA4NgIaxjaTVRGmAA</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC22/lLaAFFbbw8Y5b7AkO+mMHvYL87oLdCvH2fkS6mEAAAAAAOgAAAAAIAACAAAADfszZq7Mr/TdE3s2eoQf71QzOW8296eIc5ZbAirJSv3BAAAAC61g1PE8/25IkYCf8BpNGlQAAAAJAxTASqrmdDcLtX/1UkxPfSZ7OOl85WyStxWultJu2ZTPKw4sSV4kdvhEIrty81sAnwD+wtfEPad/Pn1eQIros</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -184,7 +184,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACwXYbJZEbIhKYTyfbGapFfk0coVNM59bAZAAPTxRAS1QAAAAAOgAAAAAIAACAAAAD5ZU2J5omsfCH0dSp6cBEdZ3mh8+X8Yar7thDLCQQ7eBAAAADU2S430PG/riG75CFq1adtQAAAAEPVlg24WPzQ6+CqWCAjeU3cfP1srt1ZjkcDPEC2Fc0zvmQ+ssXCsQT0i5oebVACF2H+/QIDoYGfEgoa70fvxSg</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdaaMcd95NUeCF3Lsd04kbAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAmvBnUGVnvZZOvqc5/07+hAXnVzX92ofWSlebgmB8rCwAAAAAOgAAAAAIAACAAAACgb4BI5LUcOfwYLl+80XCy5zbKnvytBkaqEPGYSz3UsRAAAABbarEtmSx7o5weUiFeJjZjQAAAAH4bH5/IPRvrm3SFbBUug9vCvZ8qZfVLcZVdoWs1PUU2VQfD3vZqJLg8sg1W9ZR0hs1WnfkOOLqQIa/YHeQropE</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -227,6 +227,44 @@
       </DTS:ObjectData>
     </DTS:ConnectionManager>
   </DTS:ConnectionManagers>
+  <DTS:PackageParameters>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{103BCA09-EBDA-453F-9C40-25A9178D2CB1}"
+      DTS:ObjectName="Ano_Final">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">2014</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{F9BD4D1B-71FE-426E-A883-379177D06B66}"
+      DTS:ObjectName="Ano_Inicial">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">2014</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{F032C177-B867-4EB7-B86B-5F919A3350A7}"
+      DTS:ObjectName="Mes_Final">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">12</DTS:Property>
+    </DTS:PackageParameter>
+    <DTS:PackageParameter
+      DTS:CreationName=""
+      DTS:DataType="8"
+      DTS:DTSID="{8FFF4E18-4CDA-4D8A-BF53-C2E3C47FA2F8}"
+      DTS:ObjectName="Mes_Inicial">
+      <DTS:Property
+        DTS:DataType="8"
+        DTS:Name="ParameterValue">1</DTS:Property>
+    </DTS:PackageParameter>
+  </DTS:PackageParameters>
   <DTS:Variables />
   <DTS:Executables>
     <DTS:Executable
@@ -12065,6 +12103,7 @@ SELECT'003' AS CODIGO, 'Fábrica do Nordeste' AS DESCRITOR</property>
       DTS:refId="Package\Criação da Dimensão Tempo"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Tarefa Fluxo de Dados"
+      DTS:Disabled="True"
       DTS:DTSID="{2431FA76-D56D-4871-A2E9-989F41810E9C}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -13280,10 +13319,10 @@ DECLARE @DIMDATE TABLE
 		[Tipo_Dia] NVARCHAR(50) -- Dia Útil ou Fim de Semana
 	)
 
-DECLARE @AnoInicial VARCHAR(4) = '2013'
-DECLARE @MesInicial VARCHAR(2) = '1'
-DECLARE @AnoFinal VARCHAR(4) = '2013'
-DECLARE @MesFinal VARCHAR(2) = '6'
+DECLARE @AnoInicial VARCHAR(4) = ?
+DECLARE @MesInicial VARCHAR(2) = ?
+DECLARE @AnoFinal VARCHAR(4) = ?
+DECLARE @MesFinal VARCHAR(2) = ?
 
 DECLARE @StartDate DATETIME
 Select @StartDate = CAST(@AnoInicial + '/' + @MesInicial + '/01' AS DATETIME)
@@ -13503,7 +13542,7 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
                 <property
                   dataType="System.String"
                   description="Os mapeamentos entre os parâmetros no comando SQL e as variáveis."
-                  name="ParameterMapping"></property>
+                  name="ParameterMapping">"Parameter0:Input",{F9BD4D1B-8E01-426E-A883-379177D06B66};"Parameter1:Input",{8FFF4E18-B325-4D8A-BF53-C2E3C47FA2F8};"Parameter2:Input",{103BCA09-1425-453F-9C40-25A9178D2CB1};"Parameter3:Input",{F032C177-4798-4EB7-B86B-5F919A3350A7};</property>
               </properties>
               <connections>
                 <connection
@@ -15560,6 +15599,26 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Id="Package\Criação da Dimensão Fábrica"
           TopLeft="48.3333314127391,26.8666668801839" />
         <NodeLayout
+          Size="311.2,44.8"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1"
+          TopLeft="79.1666635208663,132.60000105381" />
+        <NodeLayout
+          Size="311.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2"
+          TopLeft="84.9999966224038,207.133334979481" />
+        <NodeLayout
+          Size="316.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3"
+          TopLeft="80.8333301213055,295.533335682021" />
+        <NodeLayout
+          Size="311.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1"
+          TopLeft="77.4999969204265,366.600002913475" />
+        <NodeLayout
+          Size="311.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2"
+          TopLeft="79.1666635208661,439.000003450712" />
+        <NodeLayout
           Size="297.6,41.6"
           Id="Package\Criação da Dimensão Produto - Nível Categoria"
           TopLeft="533.333312140572,33.8000002686183" />
@@ -15567,6 +15626,22 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Size="281.6,41.6"
           Id="Package\Criação da Dimensão Produto - Nível Marca"
           TopLeft="540.833311842548,105.733334173626" />
+        <NodeLayout
+          Size="288.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto"
+          TopLeft="530.833312239913,184.600001467069" />
+        <NodeLayout
+          Size="213.6,41.6"
+          Id="Package\Criação da Dimensão Tempo"
+          TopLeft="592.499976456166,312.000002479553" />
+        <NodeLayout
+          Size="288,41.6"
+          Id="Package\Execução da rotina de Esquerda Direita Nível"
+          TopLeft="89.9999964237213,517.466670702828" />
+        <NodeLayout
+          Size="272,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível"
+          TopLeft="92.4999963243803,584.20000266552" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="681.88331199156,75.4000002686184">
@@ -15589,10 +15664,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="288.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto"
-          TopLeft="530.833312239913,184.600001467069" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
           TopLeft="678.433312041231,147.333334173626">
@@ -15615,14 +15686,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="311.2,44.8"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1"
-          TopLeft="79.1666635208663,132.60000105381" />
-        <NodeLayout
-          Size="311.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2"
-          TopLeft="84.9999966224038,207.133334979481" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
           TopLeft="237.683330071635,177.40000105381">
@@ -15645,10 +15708,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="316.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3"
-          TopLeft="80.8333301213055,295.533335682021" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
           TopLeft="239.916663371855,248.733334979481">
@@ -15671,14 +15730,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="311.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1"
-          TopLeft="77.4999969204265,366.600002913475" />
-        <NodeLayout
-          Size="311.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2"
-          TopLeft="79.1666635208661,439.000003450712" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
           TopLeft="236.166663520866,337.133335682021">
@@ -15723,10 +15774,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="288,41.6"
-          Id="Package\Execução da rotina de Esquerda Direita Nível"
-          TopLeft="89.9999964237213,517.466670702828" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
           TopLeft="234.383329972294,480.600003450712">
@@ -15749,10 +15796,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="272,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível"
-          TopLeft="92.4999963243803,584.20000266552" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 7]"
           TopLeft="231.249996374051,559.066670702828">
@@ -15775,10 +15818,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="213.6,41.6"
-          Id="Package\Criação da Dimensão Tempo"
-          TopLeft="592.499976456166,312.000002479553" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -15918,7 +15957,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15976,7 +16017,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16010,7 +16053,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16044,7 +16089,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16066,7 +16113,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16088,7 +16137,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16110,7 +16161,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16132,7 +16185,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16154,7 +16209,9 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -16494,859 +16551,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Criação da Dimensão Produto - Nível Categoria">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="223.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Leitura de Marcas e Categorias"
-          TopLeft="195.5,5.49999999999995" />
-        <NodeLayout
-          Size="280,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Extrair apenas as Categorias sem repetí-las"
-          TopLeft="167.1,107.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Origem de Arquivo Simples]"
-          TopLeft="307.1,47.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="184.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Criar coluna de Código"
-          TopLeft="214.7,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Classificar Saída]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Converter para NVARCHAR"
-          TopLeft="219.1,310.3" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Copiar Saída de Coluna]"
-          TopLeft="307.1,250.3">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Dimensão de Alteração Lenta"
-          TopLeft="199.5,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Conversão de Dados]"
-          TopLeft="307.1,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Insert Destination"
-          TopLeft="5.50000000000009,513.5" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Nova Saída]"
-          TopLeft="255.3,453.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-170.2,60.0000000000001"
-              Start="0,0"
-              End="-170.2,52.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832314"
-                    Point2="0,20.4895960832314"
-                    Point3="-4,20.4895960832314" />
-                  <mssgle:LineSegment
-                    End="-166.2,20.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-166.2,20.4895960832314"
-                    Point2="-170.2,20.4895960832314"
-                    Point3="-170.2,24.4895960832314" />
-                  <mssgle:LineSegment
-                    End="-170.2,52.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-110.093359375,25.4895960832314,49.98671875,10.3349609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Comando OLE DB"
-          TopLeft="225.1,513.5" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,453.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60.0000000000001"
-              Start="0,0"
-              End="0,52.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Categoria\Comando OLE DB 1"
-          TopLeft="449.7,513.5" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,453.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60.0000000000001"
-              Start="0,0"
-              End="177.2,52.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832314"
-                    Point2="0,20.4895960832314"
-                    Point3="4,20.4895960832314" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832314"
-                    Point2="177.2,20.4895960832314"
-                    Point3="177.2,24.4895960832314" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832314,206.725390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Produto - Nível Categoria\Dimensão de Alteração Lenta">
-    <Properties>
-      <Property>
-        <Name>SCDMetadata</Name>
-        <Value
-          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
-&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;ConnectionID&gt;{53F4B88B-F9AB-43DF-A201-2CB2960DF21F}&lt;/ConnectionID&gt;
-  &lt;TableName&gt;[dbo].[Dim_Categoria]&lt;/TableName&gt;
-  &lt;InputToColumnsCollection&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_CATEGORIA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Categoria&lt;/ColumnName&gt;
-      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
-      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[DESC_CATEGORIA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Desc_Categoria&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-  &lt;/InputToColumnsCollection&gt;
-  &lt;GeneratedComponentsIdentificationStrings&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
-  &lt;/GeneratedComponentsIdentificationStrings&gt;
-  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
-  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
-  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
-  &lt;CurrentIndicatorColumn /&gt;
-  &lt;InferredIndicatorColumn /&gt;
-  &lt;ValueCurrent /&gt;
-  &lt;ValueExpired /&gt;
-  &lt;StartDateColumn /&gt;
-  &lt;EndDateColumn /&gt;
-  &lt;DateVariable /&gt;
-  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
-&lt;/SCDWizardMetadata&gt;</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Criação da Dimensão Produto - Nível Marca">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Converter para NVARCHAR"
-          TopLeft="219.1,208.7" />
-        <NodeLayout
-          Size="223.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Leitura de Marcas e Categorias"
-          TopLeft="195.5,5.49999999999995" />
-        <NodeLayout
-          Size="184.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Criar coluna de Código"
-          TopLeft="214.7,107.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Copiar Saída de Coluna]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Origem de Arquivo Simples]"
-          TopLeft="307.1,47.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Dimensão de Alteração Lenta"
-          TopLeft="199.5,310.3" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Conversão de Dados]"
-          TopLeft="307.1,250.3">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Insert Destination"
-          TopLeft="5.50000000000009,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Nova Saída]"
-          TopLeft="255.3,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-170.2,60"
-              Start="0,0"
-              End="-170.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="-4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-166.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-166.2,20.4895960832313"
-                    Point2="-170.2,20.4895960832313"
-                    Point3="-170.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-170.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Comando OLE DB"
-          TopLeft="225.1,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Marca\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60"
-              Start="0,0"
-              End="177.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832313"
-                    Point2="177.2,20.4895960832313"
-                    Point3="177.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Produto - Nível Marca\Dimensão de Alteração Lenta">
-    <Properties>
-      <Property>
-        <Name>SCDMetadata</Name>
-        <Value
-          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
-&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;ConnectionID&gt;{66C1E213-83BE-4900-BF70-183E7FB83E98}&lt;/ConnectionID&gt;
-  &lt;TableName&gt;[dbo].[Dim_Marca]&lt;/TableName&gt;
-  &lt;InputToColumnsCollection&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_CATEGORIA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Categoria&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_MARCA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Marca&lt;/ColumnName&gt;
-      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
-      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[DESC_MARCA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Desc_Marca&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-  &lt;/InputToColumnsCollection&gt;
-  &lt;GeneratedComponentsIdentificationStrings&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
-  &lt;/GeneratedComponentsIdentificationStrings&gt;
-  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
-  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
-  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
-  &lt;CurrentIndicatorColumn /&gt;
-  &lt;InferredIndicatorColumn /&gt;
-  &lt;ValueCurrent /&gt;
-  &lt;ValueExpired /&gt;
-  &lt;StartDateColumn /&gt;
-  &lt;EndDateColumn /&gt;
-  &lt;DateVariable /&gt;
-  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
-&lt;/SCDWizardMetadata&gt;</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Criação da Dimensão Produto - Nível Produto">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="222.4,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Criar colunas de código"
-          TopLeft="42.9000000000001,16.5" />
-        <NodeLayout
-          Size="273.6,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Extração da Marca com Tamanho e Sabor"
-          TopLeft="298.3,20.0999999999999" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Origem do Excel]"
-          TopLeft="265.3,39.0999999999999">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="32.9999999999999,0"
-              Start="0,0"
-              End="25.4999999999999,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="25.4999999999999,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="219.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Extração de Tamanho e Sabor"
-          TopLeft="636.5,20.6999999999999" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Coluna Derivada]"
-          TopLeft="571.9,41.1999999999999">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="64.6,0"
-              Start="0,0"
-              End="57.1,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="57.1,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="144.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Copiar Coluna"
-          TopLeft="89.7,135.3" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Coluna Derivada1]"
-          TopLeft="746.1,62.2999999999999">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-584,73"
-              Start="0,0"
-              End="-584,65.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,32.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,32.5"
-                    Point2="0,36.5"
-                    Point3="-4,36.5" />
-                  <mssgle:LineSegment
-                    End="-580,36.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-580,36.5"
-                    Point2="-584,36.5"
-                    Point3="-584,40.5" />
-                  <mssgle:LineSegment
-                    End="-584,65.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Conversão de Dados para Unicode"
-          TopLeft="299.1,129.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Copiar Saída de Coluna]"
-          TopLeft="234.5,153.4">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="64.6,0"
-              Start="0,0"
-              End="57.1,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="57.1,0" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Dimensão de Alteração Lenta"
-          TopLeft="284.5,218.5" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Conversão de Dados]"
-          TopLeft="389.6,171.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,47"
-              Start="0,0"
-              End="0,39.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,39.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Insert Destination"
-          TopLeft="86.5000000000001,328.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Nova Saída]"
-          TopLeft="340.3,260.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-174.2,68.0000000000001"
-              Start="0,0"
-              End="-174.2,60.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,19.2215422276622" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,19.2215422276622"
-                    Point2="0,23.2215422276622"
-                    Point3="-4,23.2215422276622" />
-                  <mssgle:LineSegment
-                    End="-170.2,23.2215422276622" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-170.2,23.2215422276622"
-                    Point2="-174.2,23.2215422276622"
-                    Point3="-174.2,27.2215422276622" />
-                  <mssgle:LineSegment
-                    End="-174.2,60.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-112.093359375,28.2215422276622,49.98671875,10.3349609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Comando OLE DB"
-          TopLeft="304.1,328.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="389.1,260.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,68.0000000000001"
-              Start="0,0"
-              End="0,60.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,60.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,24.1254882812501,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Produto - Nível Produto\Comando OLE DB 1"
-          TopLeft="528.7,328.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="443.9,260.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="171.2,68.0000000000001"
-              Start="0,0"
-              End="171.2,60.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,19.2215422276622" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,19.2215422276622"
-                    Point2="0,23.2215422276622"
-                    Point3="4,23.2215422276622" />
-                  <mssgle:LineSegment
-                    End="167.2,23.2215422276622" />
-                  <mssgle:CubicBezierSegment
-                    Point1="167.2,23.2215422276622"
-                    Point2="171.2,23.2215422276622"
-                    Point3="171.2,27.2215422276622" />
-                  <mssgle:LineSegment
-                    End="171.2,60.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-17.7626953125,28.2215422276622,206.725390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Produto - Nível Produto\Criar colunas de código">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Produto - Nível Produto\Dimensão de Alteração Lenta">
-    <Properties>
-      <Property>
-        <Name>SCDMetadata</Name>
-        <Value
-          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
-&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;ConnectionID&gt;{66C1E213-83BE-4900-BF70-183E7FB83E98}&lt;/ConnectionID&gt;
-  &lt;TableName&gt;[dbo].[Dim_Produto]&lt;/TableName&gt;
-  &lt;InputToColumnsCollection&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[ATR_SABOR]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Atr_Sabor&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[ATR_TAMANHO]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Atr_Tamanho&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[COD_MARCA]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Marca&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[COD_PRODUTO]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Produto&lt;/ColumnName&gt;
-      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
-      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[DESC_PRODUTO]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Desc_Produto&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-  &lt;/InputToColumnsCollection&gt;
-  &lt;GeneratedComponentsIdentificationStrings&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
-    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
-  &lt;/GeneratedComponentsIdentificationStrings&gt;
-  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
-  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
-  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
-  &lt;CurrentIndicatorColumn /&gt;
-  &lt;InferredIndicatorColumn /&gt;
-  &lt;ValueCurrent /&gt;
-  &lt;ValueExpired /&gt;
-  &lt;StartDateColumn /&gt;
-  &lt;EndDateColumn /&gt;
-  &lt;DateVariable /&gt;
-  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
-&lt;/SCDWizardMetadata&gt;</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
     design-time-name="Package\Criação da Dimensão Organizacional Tab1 Nível 1">
     <LayoutInfo>
       <GraphLayout
@@ -17356,35 +16560,29 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Planilha Funcionários Grupo 1"
           TopLeft="197.9,5.49999999999995" />
         <NodeLayout
-          Size="249.6,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Buscar as linhas que não se repetem"
-          TopLeft="182.3,107.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Saída de Origem do Excel]"
-          TopLeft="307.1,47.1">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60.0000000000001"
-              Start="0,0"
-              End="0,52.5000000000001">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5000000000001" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Insert Destination"
+          TopLeft="5.50000000000009,411.9" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Comando OLE DB"
+          TopLeft="225.1,411.9" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
         <NodeLayout
           Size="176,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Converter para Unicode"
           TopLeft="219.1,208.7" />
+        <NodeLayout
+          Size="249.6,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Buscar as linhas que não se repetem"
+          TopLeft="182.3,107.1" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Carga de tabela DW"
+          TopLeft="199.5,310.3" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Classificar Saída]"
           TopLeft="307.1,148.7">
@@ -17404,13 +16602,35 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Carga de tabela DW"
-          TopLeft="199.5,310.3" />
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Saída de Origem do Excel]"
+          TopLeft="307.1,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60.0000000000001"
+              Start="0,0"
+              End="0,52.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Saída de Conversão de Dados]"
           TopLeft="307.1,250.3">
@@ -17430,53 +16650,11 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Insert Destination"
-          TopLeft="5.50000000000009,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Nova Saída]"
-          TopLeft="255.3,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-170.2,60"
-              Start="0,0"
-              End="-170.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="-4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-166.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-166.2,20.4895960832313"
-                    Point2="-170.2,20.4895960832313"
-                    Point3="-170.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-170.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Comando OLE DB"
-          TopLeft="225.1,411.9" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Saída de Atualizações de Membro Inferido]"
           TopLeft="307.1,351.9">
@@ -17501,10 +16679,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Saída de Atualizações de Atributo de Alteração]"
           TopLeft="358.9,351.9">
@@ -17541,11 +16715,60 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 1.Paths[Nova Saída]"
+          TopLeft="255.3,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-170.2,60"
+              Start="0,0"
+              End="-170.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="-4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-166.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-166.2,20.4895960832313"
+                    Point2="-170.2,20.4895960832313"
+                    Point3="-170.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-170.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
     design-time-name="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Planilha Funcionários Grupo 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Insert Destination">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -17601,19 +16824,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Organizacional Tab1 Nível 1\Insert Destination">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Criação da Dimensão Organizacional Tab1 Nível 2">
     <LayoutInfo>
@@ -17623,6 +16833,26 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Size="218.4,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Planilha Funcionários Grupo 1"
           TopLeft="197.9,5.49999999999995" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Dimensão de Alteração Lenta"
+          TopLeft="199.5,310.3" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Conversão de Dados"
+          TopLeft="219.1,208.7" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Comando OLE DB"
+          TopLeft="225.1,411.9" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Insert Destination"
+          TopLeft="5.50000000000009,411.9" />
         <NodeLayout
           Size="126.4,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Classificar"
@@ -17646,39 +16876,11 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Conversão de Dados"
-          TopLeft="219.1,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Classificar Saída]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Dimensão de Alteração Lenta"
-          TopLeft="199.5,310.3" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Saída de Conversão de Dados]"
           TopLeft="307.1,250.3">
@@ -17698,13 +16900,71 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Insert Destination"
-          TopLeft="5.50000000000009,411.9" />
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60"
+              Start="0,0"
+              End="177.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832313"
+                    Point2="177.2,20.4895960832313"
+                    Point3="177.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Nova Saída]"
           TopLeft="255.3,351.9">
@@ -17741,71 +17001,27 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Comando OLE DB"
-          TopLeft="225.1,411.9" />
         <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,351.9">
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Classificar Saída]"
+          TopLeft="307.1,148.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,59.9999999999999"
               Start="0,0"
-              End="0,52.5">
+              End="0,52.4999999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,52.4999999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 2.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60"
-              Start="0,0"
-              End="177.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832313"
-                    Point2="177.2,20.4895960832313"
-                    Point3="177.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -17898,6 +17114,26 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Planilha Funcionários Grupo 1"
           TopLeft="197.9,5.49999999999995" />
         <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Dimensão de Alteração Lenta"
+          TopLeft="199.5,310.3" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Conversão de Dados"
+          TopLeft="219.1,208.7" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Comando OLE DB"
+          TopLeft="225.1,411.9" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Insert Destination"
+          TopLeft="5.50000000000009,411.9" />
+        <NodeLayout
           Size="126.4,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Classificar"
           TopLeft="243.9,107.1" />
@@ -17920,39 +17156,11 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Conversão de Dados"
-          TopLeft="219.1,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Classificar Saída]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Dimensão de Alteração Lenta"
-          TopLeft="199.5,310.3" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Saída de Conversão de Dados]"
           TopLeft="307.1,250.3">
@@ -17972,13 +17180,71 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Insert Destination"
-          TopLeft="5.50000000000009,411.9" />
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60"
+              Start="0,0"
+              End="177.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832313"
+                    Point2="177.2,20.4895960832313"
+                    Point3="177.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Nova Saída]"
           TopLeft="255.3,351.9">
@@ -18015,71 +17281,27 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Comando OLE DB"
-          TopLeft="225.1,411.9" />
         <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,351.9">
+          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Classificar Saída]"
+          TopLeft="307.1,148.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,59.9999999999999"
               Start="0,0"
-              End="0,52.5">
+              End="0,52.4999999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,52.4999999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab1 Nível 3.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60"
-              Start="0,0"
-              End="177.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832313"
-                    Point2="177.2,20.4895960832313"
-                    Point3="177.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -18155,159 +17377,33 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="155.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Origem do Excel"
-          TopLeft="229.5,5.49999999999984" />
-        <NodeLayout
-          Size="126.4,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Classificar"
-          TopLeft="243.9,107.1" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Origem do Excel]"
-          TopLeft="307.1,47.0999999999998">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
         <NodeLayout
           Size="176,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Conversão de Dados"
           TopLeft="219.1,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Classificar Saída]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
         <NodeLayout
           Size="215.2,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Dimensão de Alteração Lenta"
           TopLeft="199.5,310.3" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Conversão de Dados]"
-          TopLeft="307.1,250.3">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="155.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Origem do Excel"
+          TopLeft="229.5,5.49999999999984" />
         <NodeLayout
           Size="159.2,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Insert Destination"
           TopLeft="5.50000000000009,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Nova Saída]"
-          TopLeft="255.3,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-170.2,60"
-              Start="0,0"
-              End="-170.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="-4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-166.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-166.2,20.4895960832313"
-                    Point2="-170.2,20.4895960832313"
-                    Point3="-170.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-170.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
+        <NodeLayout
+          Size="126.4,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Classificar"
+          TopLeft="243.9,107.1" />
         <NodeLayout
           Size="164,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Comando OLE DB"
           TopLeft="225.1,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Atualizações de Atributo de Alteração]"
           TopLeft="358.9,351.9">
@@ -18344,22 +17440,141 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Nova Saída]"
+          TopLeft="255.3,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-170.2,60"
+              Start="0,0"
+              End="-170.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="-4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-166.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-166.2,20.4895960832313"
+                    Point2="-170.2,20.4895960832313"
+                    Point3="-170.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-170.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Classificar Saída]"
+          TopLeft="307.1,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Origem do Excel]"
+          TopLeft="307.1,47.0999999999998">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Conversão de Dados]"
+          TopLeft="307.1,250.3">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 1.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Origem do Excel">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Dimensão de Alteração Lenta">
     <Properties>
@@ -18404,6 +17619,19 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Criação da Dimensão Organizacional Tab2 Nível 1\Origem do Excel">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Criação da Dimensão Organizacional Tab2 Nível 2">
     <LayoutInfo>
@@ -18413,6 +17641,26 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           Size="155.2,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Origem do Excel"
           TopLeft="229.5,5.49999999999984" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Dimensão de Alteração Lenta"
+          TopLeft="199.5,310.3" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Conversão de Dados"
+          TopLeft="219.1,208.7" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Comando OLE DB"
+          TopLeft="225.1,411.9" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Insert Destination"
+          TopLeft="5.50000000000009,411.9" />
         <NodeLayout
           Size="126.4,41.6"
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Classificar"
@@ -18436,39 +17684,11 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="176,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Conversão de Dados"
-          TopLeft="219.1,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Classificar Saída]"
-          TopLeft="307.1,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,59.9999999999999"
-              Start="0,0"
-              End="0,52.4999999999999">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.4999999999999" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Dimensão de Alteração Lenta"
-          TopLeft="199.5,310.3" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Saída de Conversão de Dados]"
           TopLeft="307.1,250.3">
@@ -18488,13 +17708,71 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Insert Destination"
-          TopLeft="5.50000000000009,411.9" />
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60"
+              Start="0,0"
+              End="177.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832313"
+                    Point2="177.2,20.4895960832313"
+                    Point3="177.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
         <EdgeLayout
           Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Nova Saída]"
           TopLeft="255.3,351.9">
@@ -18531,71 +17809,27 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Comando OLE DB"
-          TopLeft="225.1,411.9" />
         <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,351.9">
+          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Classificar Saída]"
+          TopLeft="307.1,148.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,59.9999999999999"
               Start="0,0"
-              End="0,52.5">
+              End="0,52.4999999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,52.4999999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2\Comando OLE DB 1"
-          TopLeft="449.7,411.9" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Organizacional Tab2 Nível 2.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,351.9">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60"
-              Start="0,0"
-              End="177.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832313"
-                    Point2="177.2,20.4895960832313"
-                    Point3="177.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -18666,21 +17900,141 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Transferência do Esquerda, Direta e Nível">
+    design-time-name="Package\Criação da Dimensão Produto - Nível Categoria">
     <LayoutInfo>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
-          Size="192,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Leitura da tabela auxiliar"
-          TopLeft="211.1,5.49999999999984" />
+          Size="184.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Criar coluna de Código"
+          TopLeft="214.7,208.7" />
+        <NodeLayout
+          Size="223.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Leitura de Marcas e Categorias"
+          TopLeft="195.5,5.49999999999995" />
+        <NodeLayout
+          Size="280,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Extrair apenas as Categorias sem repetí-las"
+          TopLeft="167.1,107.1" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Insert Destination"
+          TopLeft="5.50000000000009,513.5" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Dimensão de Alteração Lenta"
+          TopLeft="199.5,411.9" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Comando OLE DB"
+          TopLeft="225.1,513.5" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Comando OLE DB 1"
+          TopLeft="449.7,513.5" />
         <NodeLayout
           Size="176,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Conversão de Dados"
-          TopLeft="219.1,107.1" />
+          Id="Package\Criação da Dimensão Produto - Nível Categoria\Converter para NVARCHAR"
+          TopLeft="219.1,310.3" />
         <EdgeLayout
-          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Origem OLE DB]"
-          TopLeft="307.1,47.0999999999998">
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,453.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60.0000000000001"
+              Start="0,0"
+              End="0,52.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,453.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60.0000000000001"
+              Start="0,0"
+              End="177.2,52.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832314"
+                    Point2="0,20.4895960832314"
+                    Point3="4,20.4895960832314" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832314"
+                    Point2="177.2,20.4895960832314"
+                    Point3="177.2,24.4895960832314" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832314,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Nova Saída]"
+          TopLeft="255.3,453.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-170.2,60.0000000000001"
+              Start="0,0"
+              End="-170.2,52.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832314"
+                    Point2="0,20.4895960832314"
+                    Point3="-4,20.4895960832314" />
+                  <mssgle:LineSegment
+                    End="-166.2,20.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-166.2,20.4895960832314"
+                    Point2="-170.2,20.4895960832314"
+                    Point3="-170.2,24.4895960832314" />
+                  <mssgle:LineSegment
+                    End="-170.2,52.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-110.093359375,25.4895960832314,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Copiar Saída de Coluna]"
+          TopLeft="307.1,250.3">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -18697,15 +18051,13 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Dimensão de Alteração Lenta"
-          TopLeft="199.5,208.7" />
         <EdgeLayout
-          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Conversão de Dados]"
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Classificar Saída]"
           TopLeft="307.1,148.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -18723,16 +18075,250 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Origem de Arquivo Simples]"
+          TopLeft="307.1,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Categoria.Paths[Saída de Conversão de Dados]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Criação da Dimensão Produto - Nível Categoria\Dimensão de Alteração Lenta">
+    <Properties>
+      <Property>
+        <Name>SCDMetadata</Name>
+        <Value
+          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionID&gt;{53F4B88B-F9AB-43DF-A201-2CB2960DF21F}&lt;/ConnectionID&gt;
+  &lt;TableName&gt;[dbo].[Dim_Categoria]&lt;/TableName&gt;
+  &lt;InputToColumnsCollection&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_CATEGORIA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Categoria&lt;/ColumnName&gt;
+      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
+      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[DESC_CATEGORIA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Desc_Categoria&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+  &lt;/InputToColumnsCollection&gt;
+  &lt;GeneratedComponentsIdentificationStrings&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
+  &lt;/GeneratedComponentsIdentificationStrings&gt;
+  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
+  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
+  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
+  &lt;CurrentIndicatorColumn /&gt;
+  &lt;InferredIndicatorColumn /&gt;
+  &lt;ValueCurrent /&gt;
+  &lt;ValueExpired /&gt;
+  &lt;StartDateColumn /&gt;
+  &lt;EndDateColumn /&gt;
+  &lt;DateVariable /&gt;
+  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
+&lt;/SCDWizardMetadata&gt;</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Criação da Dimensão Produto - Nível Marca">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="223.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Leitura de Marcas e Categorias"
+          TopLeft="195.5,5.49999999999995" />
         <NodeLayout
           Size="159.2,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Insert Destination"
-          TopLeft="5.50000000000009,310.3" />
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Insert Destination"
+          TopLeft="5.50000000000009,411.9" />
+        <NodeLayout
+          Size="184.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Criar coluna de Código"
+          TopLeft="214.7,107.1" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Converter para NVARCHAR"
+          TopLeft="219.1,208.7" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Comando OLE DB 1"
+          TopLeft="449.7,411.9" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Dimensão de Alteração Lenta"
+          TopLeft="199.5,310.3" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Marca\Comando OLE DB"
+          TopLeft="225.1,411.9" />
         <EdgeLayout
-          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Nova Saída]"
-          TopLeft="255.3,250.3">
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Origem de Arquivo Simples]"
+          TopLeft="307.1,47.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Conversão de Dados]"
+          TopLeft="307.1,250.3">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,351.9">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60"
+              Start="0,0"
+              End="177.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832313"
+                    Point2="177.2,20.4895960832313"
+                    Point3="177.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832313,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Nova Saída]"
+          TopLeft="255.3,351.9">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -18766,71 +18352,27 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Comando OLE DB"
-          TopLeft="225.1,310.3" />
         <EdgeLayout
-          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Atualizações de Membro Inferido]"
-          TopLeft="307.1,250.3">
+          Id="Package\Criação da Dimensão Produto - Nível Marca.Paths[Copiar Saída de Coluna]"
+          TopLeft="307.1,148.7">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="0,60"
+              EndConnector="0,59.9999999999999"
               Start="0,0"
-              End="0,52.5">
+              End="0,52.4999999999999">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,52.5" />
+                    End="0,52.4999999999999" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Transferência do Esquerda, Direta e Nível\Comando OLE DB 1"
-          TopLeft="449.7,310.3" />
-        <EdgeLayout
-          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Atualizações de Atributo de Alteração]"
-          TopLeft="358.9,250.3">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="177.2,60"
-              Start="0,0"
-              End="177.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832314"
-                    Point2="0,20.4895960832314"
-                    Point3="4,20.4895960832314" />
-                  <mssgle:LineSegment
-                    End="173.2,20.4895960832314" />
-                  <mssgle:CubicBezierSegment
-                    Point1="173.2,20.4895960832314"
-                    Point2="177.2,20.4895960832314"
-                    Point3="177.2,24.4895960832314" />
-                  <mssgle:LineSegment
-                    End="177.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-14.7626953125,25.4895960832314,206.725390625,12.2490234375"
+              BoundingBox="0,0,0,0"
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
@@ -18838,7 +18380,329 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Transferência do Esquerda, Direta e Nível\Leitura da tabela auxiliar">
+    design-time-name="Package\Criação da Dimensão Produto - Nível Marca\Dimensão de Alteração Lenta">
+    <Properties>
+      <Property>
+        <Name>SCDMetadata</Name>
+        <Value
+          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionID&gt;{66C1E213-83BE-4900-BF70-183E7FB83E98}&lt;/ConnectionID&gt;
+  &lt;TableName&gt;[dbo].[Dim_Marca]&lt;/TableName&gt;
+  &lt;InputToColumnsCollection&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_CATEGORIA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Categoria&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[COD_MARCA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Marca&lt;/ColumnName&gt;
+      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
+      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Converter para NVARCHAR.Saídas[Saída de Conversão de Dados].Colunas[DESC_MARCA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Desc_Marca&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+  &lt;/InputToColumnsCollection&gt;
+  &lt;GeneratedComponentsIdentificationStrings&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
+  &lt;/GeneratedComponentsIdentificationStrings&gt;
+  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
+  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
+  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
+  &lt;CurrentIndicatorColumn /&gt;
+  &lt;InferredIndicatorColumn /&gt;
+  &lt;ValueCurrent /&gt;
+  &lt;ValueExpired /&gt;
+  &lt;StartDateColumn /&gt;
+  &lt;EndDateColumn /&gt;
+  &lt;DateVariable /&gt;
+  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
+&lt;/SCDWizardMetadata&gt;</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Criação da Dimensão Produto - Nível Produto">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="32" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="222.4,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Criar colunas de código"
+          TopLeft="42.9000000000001,16.5" />
+        <NodeLayout
+          Size="219.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Extração de Tamanho e Sabor"
+          TopLeft="636.5,20.6999999999999" />
+        <NodeLayout
+          Size="144.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Copiar Coluna"
+          TopLeft="89.7,135.3" />
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Comando OLE DB 1"
+          TopLeft="528.7,328.1" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Dimensão de Alteração Lenta"
+          TopLeft="284.5,218.5" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Insert Destination"
+          TopLeft="86.5000000000001,328.1" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Comando OLE DB"
+          TopLeft="304.1,328.1" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Conversão de Dados para Unicode"
+          TopLeft="299.1,129.9" />
+        <NodeLayout
+          Size="273.6,41.6"
+          Id="Package\Criação da Dimensão Produto - Nível Produto\Extração da Marca com Tamanho e Sabor"
+          TopLeft="298.3,20.0999999999999" />
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Origem do Excel]"
+          TopLeft="265.3,39.0999999999999">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="32.9999999999999,0"
+              Start="0,0"
+              End="25.4999999999999,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="25.4999999999999,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Conversão de Dados]"
+          TopLeft="389.6,171.5">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,47"
+              Start="0,0"
+              End="0,39.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,39.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Coluna Derivada1]"
+          TopLeft="746.1,62.2999999999999">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-584,73"
+              Start="0,0"
+              End="-584,65.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,32.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,32.5"
+                    Point2="0,36.5"
+                    Point3="-4,36.5" />
+                  <mssgle:LineSegment
+                    End="-580,36.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-580,36.5"
+                    Point2="-584,36.5"
+                    Point3="-584,40.5" />
+                  <mssgle:LineSegment
+                    End="-584,65.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Coluna Derivada]"
+          TopLeft="571.9,41.1999999999999">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="64.6,0"
+              Start="0,0"
+              End="57.1,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="57.1,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="389.1,260.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,68.0000000000001"
+              Start="0,0"
+              End="0,60.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,60.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,24.1254882812501,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="443.9,260.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="171.2,68.0000000000001"
+              Start="0,0"
+              End="171.2,60.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19.2215422276622" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19.2215422276622"
+                    Point2="0,23.2215422276622"
+                    Point3="4,23.2215422276622" />
+                  <mssgle:LineSegment
+                    End="167.2,23.2215422276622" />
+                  <mssgle:CubicBezierSegment
+                    Point1="167.2,23.2215422276622"
+                    Point2="171.2,23.2215422276622"
+                    Point3="171.2,27.2215422276622" />
+                  <mssgle:LineSegment
+                    End="171.2,60.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-17.7626953125,28.2215422276622,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Nova Saída]"
+          TopLeft="340.3,260.1">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-174.2,68.0000000000001"
+              Start="0,0"
+              End="-174.2,60.5000000000001">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19.2215422276622" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19.2215422276622"
+                    Point2="0,23.2215422276622"
+                    Point3="-4,23.2215422276622" />
+                  <mssgle:LineSegment
+                    End="-170.2,23.2215422276622" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-170.2,23.2215422276622"
+                    Point2="-174.2,23.2215422276622"
+                    Point3="-174.2,27.2215422276622" />
+                  <mssgle:LineSegment
+                    End="-174.2,60.5000000000001" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-112.093359375,28.2215422276622,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Produto - Nível Produto.Paths[Copiar Saída de Coluna]"
+          TopLeft="234.5,153.4">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="64.6,0"
+              Start="0,0"
+              End="57.1,0">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="57.1,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Criação da Dimensão Produto - Nível Produto\Criar colunas de código">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -18851,7 +18715,7 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Transferência do Esquerda, Direta e Nível\Dimensão de Alteração Lenta">
+    design-time-name="Package\Criação da Dimensão Produto - Nível Produto\Dimensão de Alteração Lenta">
     <Properties>
       <Property>
         <Name>SCDMetadata</Name>
@@ -18859,41 +18723,35 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
           type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;ConnectionID&gt;{66C1E213-83BE-4900-BF70-183E7FB83E98}&lt;/ConnectionID&gt;
-  &lt;TableName&gt;[dbo].[Dim_Organizacional]&lt;/TableName&gt;
+  &lt;TableName&gt;[dbo].[Dim_Produto]&lt;/TableName&gt;
   &lt;InputToColumnsCollection&gt;
     &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Cod_Filho]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Filho&lt;/ColumnName&gt;
+      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[ATR_SABOR]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Atr_Sabor&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[ATR_TAMANHO]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Atr_Tamanho&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[COD_MARCA]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Marca&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[COD_PRODUTO]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Produto&lt;/ColumnName&gt;
       &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
       &lt;ChangeType&gt;None&lt;/ChangeType&gt;
     &lt;/InputColumnToDBColumn&gt;
     &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Cod_Pai]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Cod_Pai&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Desc_Filho]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Desc_Filho&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Direita]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Direita&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Esquerda]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Esquerda&lt;/ColumnName&gt;
-      &lt;KeyType&gt;None&lt;/KeyType&gt;
-      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
-    &lt;/InputColumnToDBColumn&gt;
-    &lt;InputColumnToDBColumn&gt;
-      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Nivel]&lt;/IdentificationString&gt;
-      &lt;ColumnName&gt;Nivel&lt;/ColumnName&gt;
+      &lt;IdentificationString&gt;Conversão de Dados para Unicode.Saídas[Saída de Conversão de Dados].Colunas[DESC_PRODUTO]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Desc_Produto&lt;/ColumnName&gt;
       &lt;KeyType&gt;None&lt;/KeyType&gt;
       &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
     &lt;/InputColumnToDBColumn&gt;
@@ -18924,13 +18782,25 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
       <GraphLayout
         Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Criação da Dimensão Tempo\Dimensão de Alteração Lenta"
+          TopLeft="199.5,107.1" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Criação da Dimensão Tempo\Insert Destination"
+          TopLeft="5.50000000000009,208.7" />
+        <NodeLayout
           Size="241.6,41.6"
           Id="Package\Criação da Dimensão Tempo\Execução do Script do Tempo"
           TopLeft="186.3,5.49999999999995" />
         <NodeLayout
-          Size="215.2,41.6"
-          Id="Package\Criação da Dimensão Tempo\Dimensão de Alteração Lenta"
-          TopLeft="199.5,107.1" />
+          Size="172.8,41.6"
+          Id="Package\Criação da Dimensão Tempo\Comando OLE DB 1"
+          TopLeft="449.7,208.7" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Criação da Dimensão Tempo\Comando OLE DB"
+          TopLeft="225.1,208.7" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Tempo.Paths[Saída de Origem OLE DB]"
           TopLeft="307.1,47.1">
@@ -18953,50 +18823,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="159.2,41.6"
-          Id="Package\Criação da Dimensão Tempo\Insert Destination"
-          TopLeft="5.50000000000009,208.7" />
-        <EdgeLayout
-          Id="Package\Criação da Dimensão Tempo.Paths[Nova Saída]"
-          TopLeft="255.3,148.7">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-170.2,60"
-              Start="0,0"
-              End="-170.2,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,16.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,16.4895960832313"
-                    Point2="0,20.4895960832313"
-                    Point3="-4,20.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-166.2,20.4895960832313" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-166.2,20.4895960832313"
-                    Point2="-170.2,20.4895960832313"
-                    Point3="-170.2,24.4895960832313" />
-                  <mssgle:LineSegment
-                    End="-170.2,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="164,41.6"
-          Id="Package\Criação da Dimensão Tempo\Comando OLE DB"
-          TopLeft="225.1,208.7" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Tempo.Paths[Saída de Atualizações de Membro Inferido]"
           TopLeft="307.1,148.7">
@@ -19021,10 +18847,6 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="172.8,41.6"
-          Id="Package\Criação da Dimensão Tempo\Comando OLE DB 1"
-          TopLeft="449.7,208.7" />
         <EdgeLayout
           Id="Package\Criação da Dimensão Tempo.Paths[Saída de Atualizações de Atributo de Alteração]"
           TopLeft="358.9,148.7">
@@ -19061,17 +18883,45 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Criação da Dimensão Tempo.Paths[Nova Saída]"
+          TopLeft="255.3,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-170.2,60"
+              Start="0,0"
+              End="-170.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="-4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-166.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-166.2,20.4895960832313"
+                    Point2="-170.2,20.4895960832313"
+                    Point3="-170.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-170.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Criação da Dimensão Tempo\Execução do Script do Tempo">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Criação da Dimensão Tempo\Dimensão de Alteração Lenta">
     <Properties>
@@ -19197,6 +19047,271 @@ SELECT * FROM @DIMDATE order by Cod_Dia</property>
   &lt;DateVariable /&gt;
   &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
 &lt;/SCDWizardMetadata&gt;</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Criação da Dimensão Tempo\Execução do Script do Tempo">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Transferência do Esquerda, Direta e Nível">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="16" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="172.8,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Comando OLE DB 1"
+          TopLeft="449.7,310.3" />
+        <NodeLayout
+          Size="176,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Conversão de Dados"
+          TopLeft="219.1,107.1" />
+        <NodeLayout
+          Size="159.2,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Insert Destination"
+          TopLeft="5.50000000000009,310.3" />
+        <NodeLayout
+          Size="215.2,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Dimensão de Alteração Lenta"
+          TopLeft="199.5,208.7" />
+        <NodeLayout
+          Size="164,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Comando OLE DB"
+          TopLeft="225.1,310.3" />
+        <NodeLayout
+          Size="192,41.6"
+          Id="Package\Transferência do Esquerda, Direta e Nível\Leitura da tabela auxiliar"
+          TopLeft="211.1,5.49999999999984" />
+        <EdgeLayout
+          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Nova Saída]"
+          TopLeft="255.3,250.3">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-170.2,60"
+              Start="0,0"
+              End="-170.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832313"
+                    Point2="0,20.4895960832313"
+                    Point3="-4,20.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-166.2,20.4895960832313" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-166.2,20.4895960832313"
+                    Point2="-170.2,20.4895960832313"
+                    Point3="-170.2,24.4895960832313" />
+                  <mssgle:LineSegment
+                    End="-170.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-110.093359375,25.4895960832313,49.98671875,10.3349609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Origem OLE DB]"
+          TopLeft="307.1,47.0999999999998">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,59.9999999999999"
+              Start="0,0"
+              End="0,52.4999999999999">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.4999999999999" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Conversão de Dados]"
+          TopLeft="307.1,148.7">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Atualizações de Membro Inferido]"
+          TopLeft="307.1,250.3">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,60"
+              Start="0,0"
+              End="0,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-93.5976953125,20.12548828125,187.195390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Transferência do Esquerda, Direta e Nível.Paths[Saída de Atualizações de Atributo de Alteração]"
+          TopLeft="358.9,250.3">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="177.2,60"
+              Start="0,0"
+              End="177.2,52.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,16.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,16.4895960832314"
+                    Point2="0,20.4895960832314"
+                    Point3="4,20.4895960832314" />
+                  <mssgle:LineSegment
+                    End="173.2,20.4895960832314" />
+                  <mssgle:CubicBezierSegment
+                    Point1="173.2,20.4895960832314"
+                    Point2="177.2,20.4895960832314"
+                    Point3="177.2,24.4895960832314" />
+                  <mssgle:LineSegment
+                    End="177.2,52.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-14.7626953125,25.4895960832314,206.725390625,12.2490234375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Transferência do Esquerda, Direta e Nível\Dimensão de Alteração Lenta">
+    <Properties>
+      <Property>
+        <Name>SCDMetadata</Name>
+        <Value
+          type="q2:string">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SCDWizardMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionID&gt;{66C1E213-83BE-4900-BF70-183E7FB83E98}&lt;/ConnectionID&gt;
+  &lt;TableName&gt;[dbo].[Dim_Organizacional]&lt;/TableName&gt;
+  &lt;InputToColumnsCollection&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Cod_Filho]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Filho&lt;/ColumnName&gt;
+      &lt;KeyType&gt;BusinessKey&lt;/KeyType&gt;
+      &lt;ChangeType&gt;None&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Cod_Pai]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Cod_Pai&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Desc_Filho]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Desc_Filho&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Direita]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Direita&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Esquerda]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Esquerda&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+    &lt;InputColumnToDBColumn&gt;
+      &lt;IdentificationString&gt;Conversão de Dados.Saídas[Saída de Conversão de Dados].Colunas[Nivel]&lt;/IdentificationString&gt;
+      &lt;ColumnName&gt;Nivel&lt;/ColumnName&gt;
+      &lt;KeyType&gt;None&lt;/KeyType&gt;
+      &lt;ChangeType&gt;ChangingAttribute&lt;/ChangeType&gt;
+    &lt;/InputColumnToDBColumn&gt;
+  &lt;/InputToColumnsCollection&gt;
+  &lt;GeneratedComponentsIdentificationStrings&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Insert Destination&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB&lt;/anyType&gt;
+    &lt;anyType xsi:type="xsd:string"&gt;Comando OLE DB 1&lt;/anyType&gt;
+  &lt;/GeneratedComponentsIdentificationStrings&gt;
+  &lt;FailFixedAttribute&gt;false&lt;/FailFixedAttribute&gt;
+  &lt;FailChangeAttribute&gt;false&lt;/FailChangeAttribute&gt;
+  &lt;UseStartEndDate&gt;false&lt;/UseStartEndDate&gt;
+  &lt;CurrentIndicatorColumn /&gt;
+  &lt;InferredIndicatorColumn /&gt;
+  &lt;ValueCurrent /&gt;
+  &lt;ValueExpired /&gt;
+  &lt;StartDateColumn /&gt;
+  &lt;EndDateColumn /&gt;
+  &lt;DateVariable /&gt;
+  &lt;EnableInferredSupport&gt;true&lt;/EnableInferredSupport&gt;
+&lt;/SCDWizardMetadata&gt;</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Transferência do Esquerda, Direta e Nível\Leitura da tabela auxiliar">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
